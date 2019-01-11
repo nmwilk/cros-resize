@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Resizeable</string>
+    <string name="title_activity_chooser">Choose Activity Type</string>
+</resources>
